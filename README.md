@@ -1,2 +1,2 @@
 # RC6-Cipher
-Implementation of RC6 Algorithm
+Implementation of the RC6 Algorithm
